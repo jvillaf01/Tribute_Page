@@ -21,9 +21,9 @@ img {
 .img {
     transform: rotate(90deg);
     display: block;
-    max-width: 70%;
-    width: 250;
-    height: 350;
+    max-width: 50%;
+    width: 200;
+    height: 300;
     margin: auto;
 }
 
